@@ -1,12 +1,12 @@
 // Mock Data Array for the prototype
 const mockData = {
     passes: [
-        { zone: 2, player: "De Arrascaeta", team: "Flamengo", crestUrl: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg", stat: "145 Passes" },
+        { zone: 2, player: "De Arrascaeta", team: "Flamengo", crestUrl: "https://upload.wikimedia.org/wikipedia/commons/9/96/Clube_de_Regatas_do_Flamengo_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original", stat: "145 Passes" },
         { zone: 14, player: "Andreas Pereira", team: "Palmeiras", crestUrl: "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg", stat: "120 Passes" },
-        { zone: 20, player: "Ganso", team: "Fluminense", crestUrl: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fluminense_FC_escudo.svg", stat: "160 Passes" }
+        { zone: 20, player: "Ganso", team: "Fluminense", crestUrl: "https://upload.wikimedia.org/wikipedia/commons/1/12/Fluminense_Football_Club.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original", stat: "160 Passes" }
     ],
     tackles: [
-        { zone: 5, player: "Lucas Romero", team: "Cruzeiro", crestUrl: "https://commons.wikimedia.org/wiki/File:Cruzeiro_Esporte_Clube_(logo).svg", stat: "15 Tackles" },
+        { zone: 5, player: "Lucas Romero", team: "Cruzeiro", crestUrl: "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", stat: "15 Tackles" },
         { zone: 18, player: "Marlon Freitas", team: "Palmeiras", crestUrl: "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg", stat: "12 Tackles" }
     ]
 };
