@@ -46,8 +46,40 @@ function renderGrid(statType) {
         pitchContainer.appendChild(zoneDiv);
     }
 }
+// Function 2: Handles highlighting a zone and updating the text article
+function handleZoneClick(event) {
+    const clickedZone = event.target.closest('.zone');
+    
+    if (!clickedZone) return;
 
+    // Remove 'active' class from all zones
+    document.querySelectorAll('.zone').forEach(z => z.classList.remove('active'));
+    
+    // Add 'active' class to clicked zone
+    clickedZone.classList.add('active');
 
+    // Update the spotlight text using DOM manipulation
+    if (clickedZone.dataset.player) {
+        spotlightText.innerHTML = `<strong>${clickedZone.dataset.player}</strong> from <em>${clickedZone.dataset.team}</em> dominates this zone with <strong>${clickedZone.dataset.stat}</strong>.`;
+    } else {
+        spotlightText.innerText = `No major data recorded for Zone ${parseInt(clickedZone.dataset.zoneId) + 1}.`;
+    }
+}
+
+// Event Listener 1: Dropdown Change
+statSelector.addEventListener('change', (e) => {
+    renderGrid(e.target.value);
+    spotlightText.innerText = "Click on any active zone on the pitch to see detailed player information.";
+});
+
+// Event Listener 2: Clear Button Click
+clearBtn.addEventListener('click', () => {
+    pitchContainer.innerHTML = '';
+    spotlightText.innerText = "Field cleared. Select a stat to reload data.";
+});
+
+// Event Listener 3: Pitch Grid Click (Event Delegation)
+pitchContainer.addEventListener('click', handleZoneClick);
 
 // Initial Load
 renderGrid('passes');
