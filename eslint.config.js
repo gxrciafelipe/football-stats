@@ -8,8 +8,8 @@ export default [
   { ignores: ['**/node_modules/**', '**/dist/**', '**/coverage/**'] },
   js.configs.recommended,
   {
-    // Server: Node.js ES modules
-    files: ['server/**/*.js', '*.js'],
+    // Server and root scripts: Node.js ES modules
+    files: ['server/**/*.js', 'scripts/**/*.js', '*.js'],
     languageOptions: { ecmaVersion: 'latest', sourceType: 'module', globals: globals.node },
   },
   {
