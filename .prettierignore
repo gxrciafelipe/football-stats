@@ -4,8 +4,3 @@ coverage
 package-lock.json
 server/data/seed/*.json
 docs/screenshots
-
-# Legacy HTML/CSS prototype, replaced by the React client in FSB-8
-/index.html
-/scripts
-/styles

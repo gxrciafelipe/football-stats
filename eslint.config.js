@@ -5,8 +5,7 @@ import reactHooks from 'eslint-plugin-react-hooks';
 import prettier from 'eslint-config-prettier';
 
 export default [
-  // scripts/ is the legacy HTML/CSS prototype, removed in FSB-8
-  { ignores: ['**/node_modules/**', '**/dist/**', '**/coverage/**', 'scripts/**'] },
+  { ignores: ['**/node_modules/**', '**/dist/**', '**/coverage/**'] },
   js.configs.recommended,
   {
     // Server: Node.js ES modules
