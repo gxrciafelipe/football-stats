@@ -1,0 +1,22 @@
+# Manually triggered check of the live deployment (Actions tab -> Smoke test -> Run workflow).
+name: Smoke test
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: Base URL of the deployed app
+        required: true
+        default: https://football-stats.onrender.com
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+      - name: Check the live app
+        run: node scripts/smoke-test.js "${{ inputs.url }}"

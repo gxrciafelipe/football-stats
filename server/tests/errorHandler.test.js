@@ -35,4 +35,24 @@ describe('errorHandler middleware', () => {
     expect(spy).toHaveBeenCalled();
     spy.mockRestore();
   });
+
+  it('keeps the status of 4xx errors raised by Express middleware', () => {
+    const res = mockResponse();
+    const notFound = Object.assign(new Error('Not Found'), { status: 404, expose: true });
+
+    errorHandler(notFound, {}, res, () => {});
+
+    expect(res.status).toHaveBeenCalledWith(404);
+    expect(res.json).toHaveBeenCalledWith({ error: { code: 'NOT_FOUND', message: 'Not Found' } });
+  });
+
+  it('hides the message of a 4xx error that is not meant to be exposed', () => {
+    const res = mockResponse();
+
+    errorHandler(Object.assign(new Error('secret'), { status: 418 }), {}, res, () => {});
+
+    expect(res.json).toHaveBeenCalledWith({
+      error: { code: 'BAD_REQUEST', message: 'The request could not be processed.' },
+    });
+  });
 });

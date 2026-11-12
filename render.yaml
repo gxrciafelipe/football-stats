@@ -1,0 +1,21 @@
+# Render Blueprint: infrastructure as code for the production deployment.
+# One free web service runs the Express API and serves the built React client.
+# Docs: https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: football-stats
+    runtime: node
+    plan: free
+    region: virginia
+    branch: main
+    # Dev dependencies (Vite) are needed to build the client
+    buildCommand: npm ci --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    # Deploy only after the GitHub Actions CI checks on main have passed
+    autoDeployTrigger: checksPass
+    envVars:
+      - key: NODE_VERSION
+        value: '22'
+      - key: NODE_ENV
+        value: production
