@@ -5,6 +5,7 @@
   "type": "module",
   "main": "src/server.js",
   "scripts": {
+    "seed": "node scripts/generate-seed.js",
     "dev": "node --watch src/server.js",
     "start": "node src/server.js",
     "test": "vitest run",
@@ -13,7 +14,8 @@
   },
   "dependencies": {
     "express": "^5.3.0",
-    "helmet": "^8.3.0"
+    "helmet": "^8.3.0",
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "@vitest/coverage-v8": "^3.2.7",

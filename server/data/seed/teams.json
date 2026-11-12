@@ -1,0 +1,162 @@
+[
+  {
+    "id": "atletico-mg",
+    "name": "Atlético Mineiro",
+    "shortName": "Atlético-MG",
+    "code": "CAM",
+    "primary": "#000000",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "athletico-pr",
+    "name": "Athletico Paranaense",
+    "shortName": "Athletico-PR",
+    "code": "CAP",
+    "primary": "#c8102e",
+    "secondary": "#000000"
+  },
+  {
+    "id": "bahia",
+    "name": "Bahia",
+    "shortName": "Bahia",
+    "code": "BAH",
+    "primary": "#0050a0",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "botafogo",
+    "name": "Botafogo",
+    "shortName": "Botafogo",
+    "code": "BOT",
+    "primary": "#1a1a1a",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "bragantino",
+    "name": "Red Bull Bragantino",
+    "shortName": "Bragantino",
+    "code": "RBB",
+    "primary": "#ffffff",
+    "secondary": "#d2001f"
+  },
+  {
+    "id": "chapecoense",
+    "name": "Chapecoense",
+    "shortName": "Chapecoense",
+    "code": "CHA",
+    "primary": "#00843d",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "corinthians",
+    "name": "Corinthians",
+    "shortName": "Corinthians",
+    "code": "COR",
+    "primary": "#ffffff",
+    "secondary": "#000000"
+  },
+  {
+    "id": "coritiba",
+    "name": "Coritiba",
+    "shortName": "Coritiba",
+    "code": "CFC",
+    "primary": "#006837",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "cruzeiro",
+    "name": "Cruzeiro",
+    "shortName": "Cruzeiro",
+    "code": "CRU",
+    "primary": "#0033a0",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "flamengo",
+    "name": "Flamengo",
+    "shortName": "Flamengo",
+    "code": "FLA",
+    "primary": "#c8102e",
+    "secondary": "#000000"
+  },
+  {
+    "id": "fluminense",
+    "name": "Fluminense",
+    "shortName": "Fluminense",
+    "code": "FLU",
+    "primary": "#7a1e3b",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "gremio",
+    "name": "Grêmio",
+    "shortName": "Grêmio",
+    "code": "GRE",
+    "primary": "#0d80bf",
+    "secondary": "#000000"
+  },
+  {
+    "id": "internacional",
+    "name": "Internacional",
+    "shortName": "Internacional",
+    "code": "INT",
+    "primary": "#e30613",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "mirassol",
+    "name": "Mirassol",
+    "shortName": "Mirassol",
+    "code": "MIR",
+    "primary": "#ffd200",
+    "secondary": "#00843d"
+  },
+  {
+    "id": "palmeiras",
+    "name": "Palmeiras",
+    "shortName": "Palmeiras",
+    "code": "PAL",
+    "primary": "#006437",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "remo",
+    "name": "Remo",
+    "shortName": "Remo",
+    "code": "REM",
+    "primary": "#0b1f4b",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "santos",
+    "name": "Santos",
+    "shortName": "Santos",
+    "code": "SAN",
+    "primary": "#ffffff",
+    "secondary": "#000000"
+  },
+  {
+    "id": "sao-paulo",
+    "name": "São Paulo",
+    "shortName": "São Paulo",
+    "code": "SAO",
+    "primary": "#e30613",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "vasco",
+    "name": "Vasco da Gama",
+    "shortName": "Vasco",
+    "code": "VAS",
+    "primary": "#000000",
+    "secondary": "#ffffff"
+  },
+  {
+    "id": "vitoria",
+    "name": "Vitória",
+    "shortName": "Vitória",
+    "code": "VIT",
+    "primary": "#d50000",
+    "secondary": "#000000"
+  }
+]
