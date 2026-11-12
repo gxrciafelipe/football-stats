@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "atletico-mg-01",
+    "name": "Marcos Correia",
+    "teamId": "atletico-mg",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "atletico-mg-02",
+    "name": "Leonardo Ramos",
+    "teamId": "atletico-mg",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "atletico-mg-03",
+    "name": "Renan Carvalho",
+    "teamId": "atletico-mg",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "atletico-mg-04",
+    "name": "Vitor Pereira",
+    "teamId": "atletico-mg",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "atletico-mg-05",
+    "name": "Renan Souza",
+    "teamId": "atletico-mg",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "atletico-mg-06",
+    "name": "Vitor Moreira",
+    "teamId": "atletico-mg",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "atletico-mg-07",
+    "name": "Emerson Vieira",
+    "teamId": "atletico-mg",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "atletico-mg-08",
+    "name": "Rafael Monteiro",
+    "teamId": "atletico-mg",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "atletico-mg-09",
+    "name": "Fábio Pereira",
+    "teamId": "atletico-mg",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "atletico-mg-10",
+    "name": "Lucas Souza",
+    "teamId": "atletico-mg",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "atletico-mg-11",
+    "name": "Luan Almeida",
+    "teamId": "atletico-mg",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "atletico-mg-12",
+    "name": "Davi Almeida",
+    "teamId": "atletico-mg",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "atletico-mg-13",
+    "name": "Luan Teixeira",
+    "teamId": "atletico-mg",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "atletico-mg-14",
+    "name": "Ruan Lopes",
+    "teamId": "atletico-mg",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "athletico-pr-01",
+    "name": "Matheus Moura",
+    "teamId": "athletico-pr",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "athletico-pr-02",
+    "name": "Arthur Nunes",
+    "teamId": "athletico-pr",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "athletico-pr-03",
+    "name": "Daniel Martins",
+    "teamId": "athletico-pr",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "athletico-pr-04",
+    "name": "Diego Ribeiro",
+    "teamId": "athletico-pr",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "athletico-pr-05",
+    "name": "Kaio Moura",
+    "teamId": "athletico-pr",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "athletico-pr-06",
+    "name": "Hugo Lima",
+    "teamId": "athletico-pr",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "athletico-pr-07",
+    "name": "Fábio Santos",
+    "teamId": "athletico-pr",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "athletico-pr-08",
+    "name": "Arthur Batista",
+    "teamId": "athletico-pr",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "athletico-pr-09",
+    "name": "Matheus Barros",
+    "teamId": "athletico-pr",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "athletico-pr-10",
+    "name": "Rodrigo Silva",
+    "teamId": "athletico-pr",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "athletico-pr-11",
+    "name": "Marcos Cardoso",
+    "teamId": "athletico-pr",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "athletico-pr-12",
+    "name": "Diego Souza",
+    "teamId": "athletico-pr",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "athletico-pr-13",
+    "name": "Gustavo Machado",
+    "teamId": "athletico-pr",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "athletico-pr-14",
+    "name": "Diego Silva",
+    "teamId": "athletico-pr",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "bahia-01",
+    "name": "Arthur Fernandes",
+    "teamId": "bahia",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "bahia-02",
+    "name": "Yuri Martins",
+    "teamId": "bahia",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "bahia-03",
+    "name": "Lucas Correia",
+    "teamId": "bahia",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "bahia-04",
+    "name": "André Barros",
+    "teamId": "bahia",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "bahia-05",
+    "name": "André Batista",
+    "teamId": "bahia",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "bahia-06",
+    "name": "Caio Carvalho",
+    "teamId": "bahia",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "bahia-07",
+    "name": "Kauã Alves",
+    "teamId": "bahia",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "bahia-08",
+    "name": "Fábio Rodrigues",
+    "teamId": "bahia",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "bahia-09",
+    "name": "Igor Lima",
+    "teamId": "bahia",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "bahia-10",
+    "name": "Bruno Nunes",
+    "teamId": "bahia",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "bahia-11",
+    "name": "Otávio Souza",
+    "teamId": "bahia",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "bahia-12",
+    "name": "Jean Correia",
+    "teamId": "bahia",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "bahia-13",
+    "name": "Yuri Silva",
+    "teamId": "bahia",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "bahia-14",
+    "name": "Matheus Souza",
+    "teamId": "bahia",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "botafogo-01",
+    "name": "Fábio Machado",
+    "teamId": "botafogo",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "botafogo-02",
+    "name": "Bruno Gomes",
+    "teamId": "botafogo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "botafogo-03",
+    "name": "Renan Pereira",
+    "teamId": "botafogo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "botafogo-04",
+    "name": "Emerson Lopes",
+    "teamId": "botafogo",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "botafogo-05",
+    "name": "Emerson Pinto",
+    "teamId": "botafogo",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "botafogo-06",
+    "name": "Igor Moura",
+    "teamId": "botafogo",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "botafogo-07",
+    "name": "Kaio Teixeira",
+    "teamId": "botafogo",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "botafogo-08",
+    "name": "Breno Ribeiro",
+    "teamId": "botafogo",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "botafogo-09",
+    "name": "Arthur Rodrigues",
+    "teamId": "botafogo",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "botafogo-10",
+    "name": "Vitor Dias",
+    "teamId": "botafogo",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "botafogo-11",
+    "name": "Yuri Farias",
+    "teamId": "botafogo",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "botafogo-12",
+    "name": "Vitor Pinto",
+    "teamId": "botafogo",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "botafogo-13",
+    "name": "Luan Castro",
+    "teamId": "botafogo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "botafogo-14",
+    "name": "Bruno Pinto",
+    "teamId": "botafogo",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "bragantino-01",
+    "name": "Vitor Teixeira",
+    "teamId": "bragantino",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "bragantino-02",
+    "name": "Daniel Freitas",
+    "teamId": "bragantino",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "bragantino-03",
+    "name": "Ruan Cardoso",
+    "teamId": "bragantino",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "bragantino-04",
+    "name": "Gabriel Castro",
+    "teamId": "bragantino",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "bragantino-05",
+    "name": "Kaio Lopes",
+    "teamId": "bragantino",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "bragantino-06",
+    "name": "Gabriel Vieira",
+    "teamId": "bragantino",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "bragantino-07",
+    "name": "Hugo Dias",
+    "teamId": "bragantino",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "bragantino-08",
+    "name": "Fábio Araújo",
+    "teamId": "bragantino",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "bragantino-09",
+    "name": "Hugo Nascimento",
+    "teamId": "bragantino",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "bragantino-10",
+    "name": "Gabriel Santos",
+    "teamId": "bragantino",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "bragantino-11",
+    "name": "Breno Rocha",
+    "teamId": "bragantino",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "bragantino-12",
+    "name": "Leonardo Ribeiro",
+    "teamId": "bragantino",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "bragantino-13",
+    "name": "Arthur Lopes",
+    "teamId": "bragantino",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "bragantino-14",
+    "name": "André Teixeira",
+    "teamId": "bragantino",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "chapecoense-01",
+    "name": "Renan Farias",
+    "teamId": "chapecoense",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "chapecoense-02",
+    "name": "Bruno Martins",
+    "teamId": "chapecoense",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "chapecoense-03",
+    "name": "Igor Araújo",
+    "teamId": "chapecoense",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "chapecoense-04",
+    "name": "Jean Teixeira",
+    "teamId": "chapecoense",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "chapecoense-05",
+    "name": "Vitor Almeida",
+    "teamId": "chapecoense",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "chapecoense-06",
+    "name": "Lucas Lopes",
+    "teamId": "chapecoense",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "chapecoense-07",
+    "name": "Marcos Rodrigues",
+    "teamId": "chapecoense",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "chapecoense-08",
+    "name": "Enzo Ramos",
+    "teamId": "chapecoense",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "chapecoense-09",
+    "name": "Diego Vieira",
+    "teamId": "chapecoense",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "chapecoense-10",
+    "name": "Ítalo Martins",
+    "teamId": "chapecoense",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "chapecoense-11",
+    "name": "Yuri Rocha",
+    "teamId": "chapecoense",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "chapecoense-12",
+    "name": "Pedro Cavalcanti",
+    "teamId": "chapecoense",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "chapecoense-13",
+    "name": "Caio Pereira",
+    "teamId": "chapecoense",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "chapecoense-14",
+    "name": "Bruno Barros",
+    "teamId": "chapecoense",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "corinthians-01",
+    "name": "Davi Vieira",
+    "teamId": "corinthians",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "corinthians-02",
+    "name": "Rodrigo Pereira",
+    "teamId": "corinthians",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "corinthians-03",
+    "name": "Paulo Farias",
+    "teamId": "corinthians",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "corinthians-04",
+    "name": "Marcos Costa",
+    "teamId": "corinthians",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "corinthians-05",
+    "name": "André Nascimento",
+    "teamId": "corinthians",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "corinthians-06",
+    "name": "Yuri Santos",
+    "teamId": "corinthians",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "corinthians-07",
+    "name": "Murilo Cavalcanti",
+    "teamId": "corinthians",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "corinthians-08",
+    "name": "Renan Cardoso",
+    "teamId": "corinthians",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "corinthians-09",
+    "name": "Kauã Monteiro",
+    "teamId": "corinthians",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "corinthians-10",
+    "name": "Kauã Silva",
+    "teamId": "corinthians",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "corinthians-11",
+    "name": "João Nunes",
+    "teamId": "corinthians",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "corinthians-12",
+    "name": "Paulo Gomes",
+    "teamId": "corinthians",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "corinthians-13",
+    "name": "Emerson Dias",
+    "teamId": "corinthians",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "corinthians-14",
+    "name": "Kauã Souza",
+    "teamId": "corinthians",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "coritiba-01",
+    "name": "Rodrigo Ramos",
+    "teamId": "coritiba",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "coritiba-02",
+    "name": "Henrique Carvalho",
+    "teamId": "coritiba",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "coritiba-03",
+    "name": "Diego Castro",
+    "teamId": "coritiba",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "coritiba-04",
+    "name": "Hugo Machado",
+    "teamId": "coritiba",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "coritiba-05",
+    "name": "Paulo Araújo",
+    "teamId": "coritiba",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "coritiba-06",
+    "name": "Thiago Martins",
+    "teamId": "coritiba",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "coritiba-07",
+    "name": "Kauã Ramos",
+    "teamId": "coritiba",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "coritiba-08",
+    "name": "Marcos Oliveira",
+    "teamId": "coritiba",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "coritiba-09",
+    "name": "Davi Rocha",
+    "teamId": "coritiba",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "coritiba-10",
+    "name": "Bruno Costa",
+    "teamId": "coritiba",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "coritiba-11",
+    "name": "Matheus Rodrigues",
+    "teamId": "coritiba",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "coritiba-12",
+    "name": "Thiago Barbosa",
+    "teamId": "coritiba",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "coritiba-13",
+    "name": "Caio Lopes",
+    "teamId": "coritiba",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "coritiba-14",
+    "name": "Felipe Almeida",
+    "teamId": "coritiba",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "cruzeiro-01",
+    "name": "André Dias",
+    "teamId": "cruzeiro",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "cruzeiro-02",
+    "name": "Caio Fernandes",
+    "teamId": "cruzeiro",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "cruzeiro-03",
+    "name": "Kaio Campos",
+    "teamId": "cruzeiro",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "cruzeiro-04",
+    "name": "Pedro Moreira",
+    "teamId": "cruzeiro",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "cruzeiro-05",
+    "name": "Yuri Machado",
+    "teamId": "cruzeiro",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "cruzeiro-06",
+    "name": "Lucas Monteiro",
+    "teamId": "cruzeiro",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "cruzeiro-07",
+    "name": "Henrique Cardoso",
+    "teamId": "cruzeiro",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "cruzeiro-08",
+    "name": "Alan Lima",
+    "teamId": "cruzeiro",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "cruzeiro-09",
+    "name": "Wesley Silva",
+    "teamId": "cruzeiro",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "cruzeiro-10",
+    "name": "Caio Cavalcanti",
+    "teamId": "cruzeiro",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "cruzeiro-11",
+    "name": "Hugo Pinto",
+    "teamId": "cruzeiro",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "cruzeiro-12",
+    "name": "Jean Lopes",
+    "teamId": "cruzeiro",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "cruzeiro-13",
+    "name": "Gabriel Barbosa",
+    "teamId": "cruzeiro",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "cruzeiro-14",
+    "name": "André Santos",
+    "teamId": "cruzeiro",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "flamengo-01",
+    "name": "Renan Ramos",
+    "teamId": "flamengo",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "flamengo-02",
+    "name": "Luan Santos",
+    "teamId": "flamengo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "flamengo-03",
+    "name": "Renan Alves",
+    "teamId": "flamengo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "flamengo-04",
+    "name": "Jean Vieira",
+    "teamId": "flamengo",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "flamengo-05",
+    "name": "Matheus Ramos",
+    "teamId": "flamengo",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "flamengo-06",
+    "name": "Enzo Freitas",
+    "teamId": "flamengo",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "flamengo-07",
+    "name": "Pedro Rocha",
+    "teamId": "flamengo",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "flamengo-08",
+    "name": "João Correia",
+    "teamId": "flamengo",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "flamengo-09",
+    "name": "Davi Correia",
+    "teamId": "flamengo",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "flamengo-10",
+    "name": "Ítalo Teixeira",
+    "teamId": "flamengo",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "flamengo-11",
+    "name": "Otávio Oliveira",
+    "teamId": "flamengo",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "flamengo-12",
+    "name": "Breno Alves",
+    "teamId": "flamengo",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "flamengo-13",
+    "name": "Vitor Souza",
+    "teamId": "flamengo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "flamengo-14",
+    "name": "Rodrigo Nascimento",
+    "teamId": "flamengo",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "fluminense-01",
+    "name": "Vitor Araújo",
+    "teamId": "fluminense",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "fluminense-02",
+    "name": "Diego Rodrigues",
+    "teamId": "fluminense",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "fluminense-03",
+    "name": "Emerson Monteiro",
+    "teamId": "fluminense",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "fluminense-04",
+    "name": "Fábio Ribeiro",
+    "teamId": "fluminense",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "fluminense-05",
+    "name": "Diego Teixeira",
+    "teamId": "fluminense",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "fluminense-06",
+    "name": "Caio Barbosa",
+    "teamId": "fluminense",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "fluminense-07",
+    "name": "Leonardo Lopes",
+    "teamId": "fluminense",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "fluminense-08",
+    "name": "André Silva",
+    "teamId": "fluminense",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "fluminense-09",
+    "name": "Luan Moura",
+    "teamId": "fluminense",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "fluminense-10",
+    "name": "Henrique Oliveira",
+    "teamId": "fluminense",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "fluminense-11",
+    "name": "Thiago Freitas",
+    "teamId": "fluminense",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "fluminense-12",
+    "name": "Leonardo Barros",
+    "teamId": "fluminense",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "fluminense-13",
+    "name": "Jean Monteiro",
+    "teamId": "fluminense",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "fluminense-14",
+    "name": "Enzo Souza",
+    "teamId": "fluminense",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "gremio-01",
+    "name": "Jean Freitas",
+    "teamId": "gremio",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "gremio-02",
+    "name": "Jean Almeida",
+    "teamId": "gremio",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "gremio-03",
+    "name": "Lucas Cavalcanti",
+    "teamId": "gremio",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "gremio-04",
+    "name": "Marcos Batista",
+    "teamId": "gremio",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "gremio-05",
+    "name": "Otávio Correia",
+    "teamId": "gremio",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "gremio-06",
+    "name": "Caio Alves",
+    "teamId": "gremio",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "gremio-07",
+    "name": "Henrique Campos",
+    "teamId": "gremio",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "gremio-08",
+    "name": "Diego Lima",
+    "teamId": "gremio",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "gremio-09",
+    "name": "Alan Nascimento",
+    "teamId": "gremio",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "gremio-10",
+    "name": "Yuri Correia",
+    "teamId": "gremio",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "gremio-11",
+    "name": "Kauã Nascimento",
+    "teamId": "gremio",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "gremio-12",
+    "name": "Lucas Moreira",
+    "teamId": "gremio",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "gremio-13",
+    "name": "Henrique Ribeiro",
+    "teamId": "gremio",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "gremio-14",
+    "name": "Bruno Barbosa",
+    "teamId": "gremio",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "internacional-01",
+    "name": "Marcos Teixeira",
+    "teamId": "internacional",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "internacional-02",
+    "name": "Matheus Fernandes",
+    "teamId": "internacional",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "internacional-03",
+    "name": "Gabriel Silva",
+    "teamId": "internacional",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "internacional-04",
+    "name": "Luan Nascimento",
+    "teamId": "internacional",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "internacional-05",
+    "name": "Henrique Freitas",
+    "teamId": "internacional",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "internacional-06",
+    "name": "Enzo Barbosa",
+    "teamId": "internacional",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "internacional-07",
+    "name": "Emerson Silva",
+    "teamId": "internacional",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "internacional-08",
+    "name": "Luan Farias",
+    "teamId": "internacional",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "internacional-09",
+    "name": "Marcos Farias",
+    "teamId": "internacional",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "internacional-10",
+    "name": "Davi Lopes",
+    "teamId": "internacional",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "internacional-11",
+    "name": "Luan Pereira",
+    "teamId": "internacional",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "internacional-12",
+    "name": "Jean Dias",
+    "teamId": "internacional",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "internacional-13",
+    "name": "Rafael Batista",
+    "teamId": "internacional",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "internacional-14",
+    "name": "Emerson Moura",
+    "teamId": "internacional",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "mirassol-01",
+    "name": "Igor Lopes",
+    "teamId": "mirassol",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "mirassol-02",
+    "name": "Jean Nunes",
+    "teamId": "mirassol",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "mirassol-03",
+    "name": "Lucas Batista",
+    "teamId": "mirassol",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "mirassol-04",
+    "name": "Paulo Freitas",
+    "teamId": "mirassol",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "mirassol-05",
+    "name": "Lucas Silva",
+    "teamId": "mirassol",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "mirassol-06",
+    "name": "Henrique Monteiro",
+    "teamId": "mirassol",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "mirassol-07",
+    "name": "Yuri Moreira",
+    "teamId": "mirassol",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "mirassol-08",
+    "name": "João Carvalho",
+    "teamId": "mirassol",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "mirassol-09",
+    "name": "Igor Gomes",
+    "teamId": "mirassol",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "mirassol-10",
+    "name": "Gustavo Pereira",
+    "teamId": "mirassol",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "mirassol-11",
+    "name": "Felipe Ramos",
+    "teamId": "mirassol",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "mirassol-12",
+    "name": "Diego Barros",
+    "teamId": "mirassol",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "mirassol-13",
+    "name": "Emerson Moreira",
+    "teamId": "mirassol",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "mirassol-14",
+    "name": "Arthur Mendes",
+    "teamId": "mirassol",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "palmeiras-01",
+    "name": "Igor Almeida",
+    "teamId": "palmeiras",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "palmeiras-02",
+    "name": "Marcos Monteiro",
+    "teamId": "palmeiras",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "palmeiras-03",
+    "name": "Paulo Cavalcanti",
+    "teamId": "palmeiras",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "palmeiras-04",
+    "name": "Bruno Freitas",
+    "teamId": "palmeiras",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "palmeiras-05",
+    "name": "Bruno Cardoso",
+    "teamId": "palmeiras",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "palmeiras-06",
+    "name": "Caio Dias",
+    "teamId": "palmeiras",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "palmeiras-07",
+    "name": "Breno Barbosa",
+    "teamId": "palmeiras",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "palmeiras-08",
+    "name": "Kaio Moreira",
+    "teamId": "palmeiras",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "palmeiras-09",
+    "name": "Davi Cardoso",
+    "teamId": "palmeiras",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "palmeiras-10",
+    "name": "Kaio Castro",
+    "teamId": "palmeiras",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "palmeiras-11",
+    "name": "Vitor Oliveira",
+    "teamId": "palmeiras",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "palmeiras-12",
+    "name": "Murilo Castro",
+    "teamId": "palmeiras",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "palmeiras-13",
+    "name": "Felipe Nunes",
+    "teamId": "palmeiras",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "palmeiras-14",
+    "name": "Ruan Carvalho",
+    "teamId": "palmeiras",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "remo-01",
+    "name": "Pedro Vieira",
+    "teamId": "remo",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "remo-02",
+    "name": "Rafael Nascimento",
+    "teamId": "remo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "remo-03",
+    "name": "Gabriel Machado",
+    "teamId": "remo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "remo-04",
+    "name": "Bruno Farias",
+    "teamId": "remo",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "remo-05",
+    "name": "Yuri Nascimento",
+    "teamId": "remo",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "remo-06",
+    "name": "Diego Batista",
+    "teamId": "remo",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "remo-07",
+    "name": "Paulo Fernandes",
+    "teamId": "remo",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "remo-08",
+    "name": "Ruan Pereira",
+    "teamId": "remo",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "remo-09",
+    "name": "Gabriel Freitas",
+    "teamId": "remo",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "remo-10",
+    "name": "Jean Martins",
+    "teamId": "remo",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "remo-11",
+    "name": "Marcos Vieira",
+    "teamId": "remo",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "remo-12",
+    "name": "Yuri Batista",
+    "teamId": "remo",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "remo-13",
+    "name": "Paulo Batista",
+    "teamId": "remo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "remo-14",
+    "name": "João Cardoso",
+    "teamId": "remo",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "santos-01",
+    "name": "Paulo Ramos",
+    "teamId": "santos",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "santos-02",
+    "name": "Gabriel Carvalho",
+    "teamId": "santos",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "santos-03",
+    "name": "Wesley Santos",
+    "teamId": "santos",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "santos-04",
+    "name": "Breno Souza",
+    "teamId": "santos",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "santos-05",
+    "name": "Caio Monteiro",
+    "teamId": "santos",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "santos-06",
+    "name": "Pedro Castro",
+    "teamId": "santos",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "santos-07",
+    "name": "Marcos Gomes",
+    "teamId": "santos",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "santos-08",
+    "name": "Rodrigo Cardoso",
+    "teamId": "santos",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "santos-09",
+    "name": "Arthur Machado",
+    "teamId": "santos",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "santos-10",
+    "name": "Breno Campos",
+    "teamId": "santos",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "santos-11",
+    "name": "Kauã Araújo",
+    "teamId": "santos",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "santos-12",
+    "name": "Ruan Correia",
+    "teamId": "santos",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "santos-13",
+    "name": "Matheus Nunes",
+    "teamId": "santos",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "santos-14",
+    "name": "Diego Monteiro",
+    "teamId": "santos",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "sao-paulo-01",
+    "name": "Murilo Oliveira",
+    "teamId": "sao-paulo",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "sao-paulo-02",
+    "name": "Rodrigo Lima",
+    "teamId": "sao-paulo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "sao-paulo-03",
+    "name": "Fábio Nascimento",
+    "teamId": "sao-paulo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "sao-paulo-04",
+    "name": "Davi Barros",
+    "teamId": "sao-paulo",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "sao-paulo-05",
+    "name": "Murilo Pereira",
+    "teamId": "sao-paulo",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "sao-paulo-06",
+    "name": "Rodrigo Alves",
+    "teamId": "sao-paulo",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "sao-paulo-07",
+    "name": "Gabriel Correia",
+    "teamId": "sao-paulo",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "sao-paulo-08",
+    "name": "Gustavo Ribeiro",
+    "teamId": "sao-paulo",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "sao-paulo-09",
+    "name": "Ítalo Moreira",
+    "teamId": "sao-paulo",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "sao-paulo-10",
+    "name": "Yuri Moura",
+    "teamId": "sao-paulo",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "sao-paulo-11",
+    "name": "Renan Nunes",
+    "teamId": "sao-paulo",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "sao-paulo-12",
+    "name": "Renan Barros",
+    "teamId": "sao-paulo",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "sao-paulo-13",
+    "name": "Marcos Ribeiro",
+    "teamId": "sao-paulo",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "sao-paulo-14",
+    "name": "Vitor Machado",
+    "teamId": "sao-paulo",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "vasco-01",
+    "name": "Renan Moura",
+    "teamId": "vasco",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "vasco-02",
+    "name": "Daniel Lopes",
+    "teamId": "vasco",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "vasco-03",
+    "name": "Ruan Dias",
+    "teamId": "vasco",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "vasco-04",
+    "name": "Hugo Cardoso",
+    "teamId": "vasco",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "vasco-05",
+    "name": "Fábio Monteiro",
+    "teamId": "vasco",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "vasco-06",
+    "name": "Vitor Freitas",
+    "teamId": "vasco",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "vasco-07",
+    "name": "Gustavo Rodrigues",
+    "teamId": "vasco",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "vasco-08",
+    "name": "Enzo Castro",
+    "teamId": "vasco",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "vasco-09",
+    "name": "Kaio Costa",
+    "teamId": "vasco",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "vasco-10",
+    "name": "Yuri Mendes",
+    "teamId": "vasco",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "vasco-11",
+    "name": "Enzo Costa",
+    "teamId": "vasco",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "vasco-12",
+    "name": "Gabriel Lopes",
+    "teamId": "vasco",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "vasco-13",
+    "name": "Emerson Machado",
+    "teamId": "vasco",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "vasco-14",
+    "name": "Gustavo Cavalcanti",
+    "teamId": "vasco",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "vitoria-01",
+    "name": "Felipe Pereira",
+    "teamId": "vitoria",
+    "position": "GK",
+    "role": "GK"
+  },
+  {
+    "id": "vitoria-02",
+    "name": "Paulo Pinto",
+    "teamId": "vitoria",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "vitoria-03",
+    "name": "Vitor Rocha",
+    "teamId": "vitoria",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "vitoria-04",
+    "name": "Jean Castro",
+    "teamId": "vitoria",
+    "position": "DEF",
+    "role": "LB"
+  },
+  {
+    "id": "vitoria-05",
+    "name": "Emerson Araújo",
+    "teamId": "vitoria",
+    "position": "DEF",
+    "role": "RB"
+  },
+  {
+    "id": "vitoria-06",
+    "name": "Daniel Machado",
+    "teamId": "vitoria",
+    "position": "MID",
+    "role": "DM"
+  },
+  {
+    "id": "vitoria-07",
+    "name": "Kauã Lima",
+    "teamId": "vitoria",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "vitoria-08",
+    "name": "Daniel Correia",
+    "teamId": "vitoria",
+    "position": "MID",
+    "role": "AM"
+  },
+  {
+    "id": "vitoria-09",
+    "name": "Kauã Correia",
+    "teamId": "vitoria",
+    "position": "FWD",
+    "role": "LW"
+  },
+  {
+    "id": "vitoria-10",
+    "name": "Igor Teixeira",
+    "teamId": "vitoria",
+    "position": "FWD",
+    "role": "RW"
+  },
+  {
+    "id": "vitoria-11",
+    "name": "Pedro Silva",
+    "teamId": "vitoria",
+    "position": "FWD",
+    "role": "ST"
+  },
+  {
+    "id": "vitoria-12",
+    "name": "Murilo Campos",
+    "teamId": "vitoria",
+    "position": "MID",
+    "role": "CM"
+  },
+  {
+    "id": "vitoria-13",
+    "name": "Jean Pereira",
+    "teamId": "vitoria",
+    "position": "DEF",
+    "role": "CB"
+  },
+  {
+    "id": "vitoria-14",
+    "name": "Daniel Ribeiro",
+    "teamId": "vitoria",
+    "position": "FWD",
+    "role": "ST"
+  }
+]

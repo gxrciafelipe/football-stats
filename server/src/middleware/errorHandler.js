@@ -17,21 +17,31 @@ export function notFound(req, _res, next) {
   next(new ApiError(404, 'NOT_FOUND', `No route for ${req.method} ${req.originalUrl}`));
 }
 
+/** Default codes for 4xx errors raised by Express itself or its middleware (static files, body parser). */
+const HTTP_CODES = { 400: 'BAD_REQUEST', 404: 'NOT_FOUND', 413: 'PAYLOAD_TOO_LARGE' };
+
 /**
  * Last middleware in the chain. Turns every error into
  * { error: { code, message, details? } } so clients only ever parse one shape (NFR-4).
+ * Unexpected errors become a 500 whose details stay in the server log, never in the response.
  */
 // eslint-disable-next-line no-unused-vars -- Express needs the 4-argument signature
 export function errorHandler(err, _req, res, _next) {
-  const status = err instanceof ApiError ? err.status : 500;
-  if (status >= 500) console.error(err);
+  let status = 500;
+  let code = 'INTERNAL_ERROR';
+  let message = 'Something went wrong on our side.';
 
-  const body = {
-    error: {
-      code: err instanceof ApiError ? err.code : 'INTERNAL_ERROR',
-      message: status >= 500 ? 'Something went wrong on our side.' : err.message,
-    },
-  };
-  if (err.details) body.error.details = err.details;
+  if (err instanceof ApiError) {
+    ({ status, code, message } = err);
+  } else if (err.status >= 400 && err.status < 500) {
+    status = err.status;
+    code = HTTP_CODES[status] ?? 'BAD_REQUEST';
+    message = err.expose ? err.message : 'The request could not be processed.';
+  } else {
+    console.error(err);
+  }
+
+  const body = { error: { code, message } };
+  if (err instanceof ApiError && err.details) body.error.details = err.details;
   res.status(status).json(body);
 }

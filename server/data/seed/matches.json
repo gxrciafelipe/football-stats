@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "vitoria",
+    "awayTeamId": "atletico-mg"
+  },
+  {
+    "id": 2,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "athletico-pr",
+    "awayTeamId": "vasco"
+  },
+  {
+    "id": 3,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "sao-paulo",
+    "awayTeamId": "bahia"
+  },
+  {
+    "id": 4,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "botafogo",
+    "awayTeamId": "santos"
+  },
+  {
+    "id": 5,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "remo",
+    "awayTeamId": "bragantino"
+  },
+  {
+    "id": 6,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "chapecoense",
+    "awayTeamId": "palmeiras"
+  },
+  {
+    "id": 7,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "mirassol",
+    "awayTeamId": "corinthians"
+  },
+  {
+    "id": 8,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "coritiba",
+    "awayTeamId": "internacional"
+  },
+  {
+    "id": 9,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "gremio",
+    "awayTeamId": "cruzeiro"
+  },
+  {
+    "id": 10,
+    "round": 1,
+    "date": "2026-01-28",
+    "homeTeamId": "flamengo",
+    "awayTeamId": "fluminense"
+  },
+  {
+    "id": 11,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "atletico-mg",
+    "awayTeamId": "vasco"
+  },
+  {
+    "id": 12,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "sao-paulo",
+    "awayTeamId": "vitoria"
+  },
+  {
+    "id": 13,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "athletico-pr",
+    "awayTeamId": "santos"
+  },
+  {
+    "id": 14,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "remo",
+    "awayTeamId": "bahia"
+  },
+  {
+    "id": 15,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "botafogo",
+    "awayTeamId": "palmeiras"
+  },
+  {
+    "id": 16,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "mirassol",
+    "awayTeamId": "bragantino"
+  },
+  {
+    "id": 17,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "chapecoense",
+    "awayTeamId": "internacional"
+  },
+  {
+    "id": 18,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "gremio",
+    "awayTeamId": "corinthians"
+  },
+  {
+    "id": 19,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "coritiba",
+    "awayTeamId": "fluminense"
+  },
+  {
+    "id": 20,
+    "round": 2,
+    "date": "2026-02-04",
+    "homeTeamId": "flamengo",
+    "awayTeamId": "cruzeiro"
+  },
+  {
+    "id": 21,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "sao-paulo",
+    "awayTeamId": "atletico-mg"
+  },
+  {
+    "id": 22,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "vasco",
+    "awayTeamId": "santos"
+  },
+  {
+    "id": 23,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "remo",
+    "awayTeamId": "vitoria"
+  },
+  {
+    "id": 24,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "athletico-pr",
+    "awayTeamId": "palmeiras"
+  },
+  {
+    "id": 25,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "mirassol",
+    "awayTeamId": "bahia"
+  },
+  {
+    "id": 26,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "botafogo",
+    "awayTeamId": "internacional"
+  },
+  {
+    "id": 27,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "gremio",
+    "awayTeamId": "bragantino"
+  },
+  {
+    "id": 28,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "chapecoense",
+    "awayTeamId": "fluminense"
+  },
+  {
+    "id": 29,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "flamengo",
+    "awayTeamId": "corinthians"
+  },
+  {
+    "id": 30,
+    "round": 3,
+    "date": "2026-02-11",
+    "homeTeamId": "coritiba",
+    "awayTeamId": "cruzeiro"
+  },
+  {
+    "id": 31,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "atletico-mg",
+    "awayTeamId": "santos"
+  },
+  {
+    "id": 32,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "remo",
+    "awayTeamId": "sao-paulo"
+  },
+  {
+    "id": 33,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "vasco",
+    "awayTeamId": "palmeiras"
+  },
+  {
+    "id": 34,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "mirassol",
+    "awayTeamId": "vitoria"
+  },
+  {
+    "id": 35,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "athletico-pr",
+    "awayTeamId": "internacional"
+  },
+  {
+    "id": 36,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "gremio",
+    "awayTeamId": "bahia"
+  },
+  {
+    "id": 37,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "botafogo",
+    "awayTeamId": "fluminense"
+  },
+  {
+    "id": 38,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "flamengo",
+    "awayTeamId": "bragantino"
+  },
+  {
+    "id": 39,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "chapecoense",
+    "awayTeamId": "cruzeiro"
+  },
+  {
+    "id": 40,
+    "round": 4,
+    "date": "2026-02-18",
+    "homeTeamId": "coritiba",
+    "awayTeamId": "corinthians"
+  },
+  {
+    "id": 41,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "remo",
+    "awayTeamId": "atletico-mg"
+  },
+  {
+    "id": 42,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "santos",
+    "awayTeamId": "palmeiras"
+  },
+  {
+    "id": 43,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "mirassol",
+    "awayTeamId": "sao-paulo"
+  },
+  {
+    "id": 44,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "vasco",
+    "awayTeamId": "internacional"
+  },
+  {
+    "id": 45,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "gremio",
+    "awayTeamId": "vitoria"
+  },
+  {
+    "id": 46,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "athletico-pr",
+    "awayTeamId": "fluminense"
+  },
+  {
+    "id": 47,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "flamengo",
+    "awayTeamId": "bahia"
+  },
+  {
+    "id": 48,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "botafogo",
+    "awayTeamId": "cruzeiro"
+  },
+  {
+    "id": 49,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "coritiba",
+    "awayTeamId": "bragantino"
+  },
+  {
+    "id": 50,
+    "round": 5,
+    "date": "2026-02-25",
+    "homeTeamId": "chapecoense",
+    "awayTeamId": "corinthians"
+  }
+]
