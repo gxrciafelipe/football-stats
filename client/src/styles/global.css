@@ -146,3 +146,63 @@ a {
   color: var(--text-muted);
   text-align: center;
 }
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.metric-selector {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.metric-selector legend {
+  margin-bottom: 6px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+.metric-selector__options {
+  display: inline-flex;
+  padding: 3px;
+  border-radius: 999px;
+  background: var(--surface);
+}
+
+.metric-selector__option {
+  position: relative;
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-weight: 600;
+  cursor: pointer;
+  user-select: none;
+}
+
+.metric-selector__option input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.metric-selector__option:has(input:focus-visible) {
+  outline: 2px solid var(--accent);
+}
+
+.metric-selector__option.is-active {
+  background: var(--accent);
+  color: #121212;
+}
+
+.updating {
+  align-self: flex-end;
+  padding-bottom: 8px;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}

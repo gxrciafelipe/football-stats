@@ -3,18 +3,23 @@ import Pitch from './components/Pitch.jsx';
 import ZoneSpotlight from './components/ZoneSpotlight.jsx';
 import DemoBanner from './components/DemoBanner.jsx';
 import StatusMessage from './components/StatusMessage.jsx';
+import MetricSelector from './components/MetricSelector.jsx';
 import { useZones } from './hooks/useZones.js';
+import { useMetrics } from './hooks/useMetrics.js';
 
 /** Grid size for the MVP; configurable grids arrive in Sprint 2 (FSB-18). */
 const GRID = { cols: 6, rows: 4 };
 
 /**
- * Root component: owns the page state (selected zone) and composes the view.
- * Data fetching lives in the useZones hook; components below only render props.
+ * Root component: owns the page state (metric, selected zone) and composes the view.
+ * Data fetching lives in hooks; the components below only render props.
  */
 export default function App() {
+  const [metric, setMetric] = useState('passes');
   const [selectedZoneId, setSelectedZoneId] = useState(null);
-  const { status, data, error, retry } = useZones({ metric: 'passes', ...GRID });
+  const metrics = useMetrics();
+  const { status, data, error, retry } = useZones({ metric, ...GRID });
+  const updating = Boolean(data) && status === 'loading';
 
   const selectedZone = data?.zones.find((zone) => zone.zoneId === selectedZoneId) ?? null;
 
@@ -27,6 +32,15 @@ export default function App() {
 
       <main className="app-main">
         <DemoBanner source={data?.source} />
+
+        <div className="toolbar">
+          <MetricSelector metrics={metrics} value={metric} onChange={setMetric} />
+          {updating && (
+            <span className="updating" role="status">
+              <span className="spinner" aria-hidden="true" /> Updating…
+            </span>
+          )}
+        </div>
 
         {data && <h2 className="pitch-title">{data.metric.label}: leader in each zone</h2>}
 
@@ -41,7 +55,7 @@ export default function App() {
               unit={data.metric.unit}
               selectedZoneId={selectedZoneId}
               onSelectZone={setSelectedZoneId}
-              busy={status === 'loading'}
+              busy={updating}
             />
             <ZoneSpotlight zone={selectedZone} grid={data.grid} metric={data.metric} />
           </>
