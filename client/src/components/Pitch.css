@@ -1,0 +1,135 @@
+/* Pitch: grass, markings and the zone grid overlay */
+.pitch-figure {
+  margin: 0;
+}
+
+.pitch {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 105 / 68;
+  border-radius: var(--radius);
+  overflow: hidden;
+  color: var(--line);
+  /* Mowed grass stripes, 12 across the pitch */
+  background: repeating-linear-gradient(
+    90deg,
+    var(--grass) 0 8.333%,
+    var(--grass-dark) 8.333% 16.666%
+  );
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+  transition: opacity 0.2s ease;
+}
+
+.pitch--busy {
+  opacity: 0.6;
+}
+
+.pitch__markings {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.pitch__grid {
+  position: absolute;
+  inset: 0;
+  display: grid;
+}
+
+.zone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  min-width: 0;
+  padding: 2px;
+  border: 1px dashed rgba(255, 255, 255, 0.18);
+  background: transparent;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+  transition:
+    background-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.zone:hover {
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.zone:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: -3px;
+}
+
+.zone--selected {
+  background: rgba(255, 204, 0, 0.32);
+  box-shadow: inset 0 0 0 2px var(--accent);
+}
+
+.zone__name {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 700;
+  font-size: clamp(0.6rem, 1.4vw, 0.9rem);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.9);
+}
+
+.zone__count {
+  font-size: clamp(0.55rem, 1.2vw, 0.8rem);
+  font-variant-numeric: tabular-nums;
+  background: rgba(0, 0, 0, 0.45);
+  padding: 0 6px;
+  border-radius: 999px;
+}
+
+.zone__empty {
+  font-size: clamp(0.55rem, 1.1vw, 0.75rem);
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.team-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  border-radius: 50%;
+  border: 2px solid;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+
+.pitch__caption {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.pitch__direction {
+  color: var(--text);
+  font-weight: 600;
+}
+
+/* Phones: badges shrink so names still fit in 60 px wide zones */
+@media (max-width: 600px) {
+  .zone .team-badge {
+    width: 18px !important;
+    height: 18px !important;
+    font-size: 6px !important;
+    border-width: 1px;
+  }
+  .pitch__caption span:not(.pitch__direction) {
+    display: none;
+  }
+  .pitch__caption {
+    justify-content: center;
+  }
+}
