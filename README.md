@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/gxrciafelipe/football-stats/actions/workflows/ci.yml/badge.svg)](https://github.com/gxrciafelipe/football-stats/actions/workflows/ci.yml)
 
-- **Live app:** https://football-stats.onrender.com
+- **Live app:** https://football-stats-ghmj.onrender.com
 - **Jira project:** [Football Stats Brasileirao (FSB)](https://my-team-zi6lrqaa.atlassian.net/jira/software/projects/FSB/boards/34/backlog)
 - **Status:** Sprint 1 MVP (v0.1.0)
 
@@ -250,7 +250,7 @@ npm run test:coverage   # with coverage
 - **Commits** follow [Conventional Commits](https://www.conventionalcommits.org/) with the Jira key, for example `feat(FSB-7): expose zones, metrics and teams endpoints`.
 - **CI** (`.github/workflows/ci.yml`) runs on every pull request and push to `main`/`develop`: install, lint, format check, tests with coverage gates, client build. Coverage reports are uploaded as artifacts.
 - **CD:** `render.yaml` defines the service. Render deploys `main` automatically **only after the CI checks pass**, then checks `/api/health` before switching traffic.
-- **Smoke test:** run the "Smoke test" workflow in the Actions tab, or `npm run smoke -- https://football-stats.onrender.com`.
+- **Smoke test:** run the "Smoke test" workflow in the Actions tab, or `npm run smoke -- https://football-stats-ghmj.onrender.com`.
 
 ## Deployment
 
