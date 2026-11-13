@@ -1,7 +1,7 @@
 /**
  * Post-deployment smoke test: checks that a running instance answers correctly.
  *
- * Usage: npm run smoke -- https://football-stats.onrender.com
+ * Usage: npm run smoke -- https://football-stats-ghmj.onrender.com
  *        (defaults to http://localhost:3001)
  *
  * Exits with code 1 if any check fails, so it can run in CI.

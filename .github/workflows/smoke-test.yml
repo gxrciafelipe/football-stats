@@ -7,7 +7,7 @@ on:
       url:
         description: Base URL of the deployed app
         required: true
-        default: https://football-stats.onrender.com
+        default: https://football-stats-ghmj.onrender.com
 
 jobs:
   smoke:
